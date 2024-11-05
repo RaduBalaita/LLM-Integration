@@ -21,7 +21,7 @@ class AgentResponse(BaseModel):
 
 
 # Configure API key
-API_KEY = "AIzaSyD7dCuDYRHShR4qvVCuwMiqTSj227Q8eWo"
+API_KEY = "API KEY"
 
 
 def query_llm(prompt: str) -> str:
